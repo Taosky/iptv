@@ -9,7 +9,7 @@
 在UBNT ER-X上最新固件(2.0.9)上测试可用
 
 
-**MSD_LITE**：QEMU MIPSEL环境下编译，理论上mipsel cpu通用
+**MSD_LITE**：QEMU MIPSEL环境下编译，debian 9 mipsel通用
 
 **UDPXY**：来源 https://github.com/itiddler/udpxy_erx
 
